@@ -1,0 +1,18 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+    "scripts": {
+    "start": "node worker.js"
+  },
+  "description": "",
+  "main": "worker.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anupam Shrivastava",
+  "license": "ISC"
+}
